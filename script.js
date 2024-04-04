@@ -34,7 +34,7 @@ function check(btn1,btn2,btn3) {
         btn[btn2].className === "btn x" &&
         btn[btn3].className === "btn x"
         ) {
-            window.alert("x win !")
+            window.alert("x wins!")
 
         }
     else if (
@@ -43,7 +43,7 @@ function check(btn1,btn2,btn3) {
         btn[btn3].className === "btn o"
         ) {
 
-            window.alert("o win !")
+            window.alert("o wins!")
 
         } 
 }
